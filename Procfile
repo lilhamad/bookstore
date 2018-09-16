@@ -1,0 +1,1 @@
+web: BookStore BookStore.wsgi --log-file -
